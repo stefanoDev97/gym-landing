@@ -1021,8 +1021,8 @@ main .header.header-06 {
 
 @media (max-width: 767px) {
   main .header.header-06 {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 }
 
